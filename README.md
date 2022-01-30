@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Namgay19
-- 👀 I’m interested in backend development with rails
-- 🌱 I’m currently learning machine learning and react
-- 💞️ I’m looking to collaborate on rails, ruby projects 
+- 👀 I have been doing backend development with rails for 3 years
+- 🌱 I’m currently learning react js, tailwind css and golang
+- 💞️ I’m looking to collaborate on rails, ruby, golang projects 
 - 📫 How to reach me namgayt8@gmail.com 
 - https://www.namgaytenzin.com/
 <!---
