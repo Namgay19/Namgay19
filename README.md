@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Namgay19
-- 👀 I have been doing backend development with rails for 3 years
+- 👀 I have been doing backend development with rails for more than 3 years
 - 🌱 I’m currently learning react js, tailwind css and golang
 - 💞️ I’m looking to collaborate on rails, ruby, golang projects 
 - 📫 How to reach me namgayt8@gmail.com 
